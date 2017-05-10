@@ -4,3 +4,8 @@ h4 {
     p {
       font-family: fantasy; 
     }
+#sticky{
+      position: fixed; 
+      top: 0px; 
+      left: 5px; 
+}
