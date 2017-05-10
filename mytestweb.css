@@ -5,8 +5,7 @@ h4 {
       font-family: fantasy; 
     }
 h1#sticky{
-      position: fixed; 
-      color:green; 
+      position: fixed;  
       top: 0px; 
       left: 5px; 
 }
