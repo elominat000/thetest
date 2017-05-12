@@ -12,6 +12,6 @@ h1#sticky {
 body {
       background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fc1.staticflickr.com%2F7%2F6012%2F5956802620_bb66ded10a_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fmandyxclear%2F5956802620&docid=KtKnldNe8cqu0M&tbnid=dtOw7qbsUz0y7M%3A&vet=10ahUKEwjv_-31v-vTAhUQzGMKHagDDuEQMwiJASgSMBI..i&w=1024&h=683&safe=active&bih=622&biw=1366&q=underwater&ved=0ahUKEwjv_-31v-vTAhUQzGMKHagDDuEQMwiJASgSMBI&iact=mrc&uact=8.jpg") 
 } 
-p.serif {
+h4.serif {
     font-family: "Times New Roman", Times, serif;
 }
