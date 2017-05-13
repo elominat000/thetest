@@ -15,6 +15,6 @@ body {
 h4.sansserif {
     font-family: Arial, Helvetica, sans-serif;
 }
-img.wide {
+a.wide {
       width: 1000px; 
 }
