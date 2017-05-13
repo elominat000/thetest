@@ -24,4 +24,5 @@ a:hover {
 table.spaced {
       border-collapse: separate; 
       border-spacing: 10px; 
+      background-color: purple; 
 }
