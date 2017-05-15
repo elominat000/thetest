@@ -10,7 +10,7 @@ h1#sticky {
       left: 5px; 
 }
 body {
-      background-image: url("jellyfishunderwater.jpg"); 
+      background-image: url("jellyfishunderwater.jpg" width="500%"); 
 } 
 h4.sansserif {
     font-family: Arial, Helvetica, sans-serif;
