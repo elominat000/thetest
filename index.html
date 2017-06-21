@@ -123,9 +123,15 @@ document.getElementById("demo").innerHTML = d.getHours();
     <li>This instrument sounds beautiful, if played correctly
         </ol>  
         <p>If you want to know how this is related to sea crearures, then click the button below:</p>
-        <button type="button" 
-                onclick="document.getElementById('demo').innerHTML="Squidward plays a clarinet">
-                Click here!</button> 
-        <p id="demo"></p> 
+    <button onclick="changeThisPageFunc();">Click Here!</button> 
+    <main> 
+        <p> </p>
+    </main> 
+    <script type="text/javascript">
+         changeThisPageFunc = function() {
+            var myMain;
+            document.body.style.backgroundImage = "url(https://elominat000.github.io/thetest/squidward.jpg)";
+            myMain = document.querySelector('main');
+         }
   </body>
 </html> 
